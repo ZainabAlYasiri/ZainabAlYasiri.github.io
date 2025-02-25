@@ -101,23 +101,23 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
-######################################
+#####################################
 # --- Colours / background image --- #
-######################################
+#####################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#F8F5E9"   # Background color
+text-col: "#3A7D44"    # Text color
+link-col: "#9DC08B"    # Link color
+hover-col: "#DF6D14"   # Hover link color
+navbar-col: "#F8F5E9"  # Navbar background color
+navbar-text-col: "#3A7D44"  # Navbar text color
+navbar-border-col: "#DF6D14"  # Navbar border color
+footer-col: "#F8F5E9"  # Footer background color
+footer-text-col: "#3A7D44"  # Footer text color
+footer-link-col: "#9DC08B"  # Footer link color
+footer-hover-col: "#DF6D14"  # Footer hover link color
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
