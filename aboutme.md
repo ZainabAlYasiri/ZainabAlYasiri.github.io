@@ -4,12 +4,12 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Zainab Al Yasiri, I am from Iraq and I love learning new skills. Have a look at my background below!
+I am Zainab, a passionate health data scientist with a background in biomedical engineering, committed to leveraging data and technology to drive innovation in healthcare.
 
 ### Education
 
-- Bachelor's in Biomedical Engineering at Universidad de Carlos III de Madrid (2019 - 2024)
 - Master Health Data Science (2024 - 2026)
+- Bachelor's in Biomedical Engineering at Universidad de Carlos III de Madrid (2019 - 2024)
 
 ### Experience
 - Research intern at Centro de Química Estrutural, University of LisbonResearch (02/2023 - 05/2023)
