@@ -4,7 +4,7 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Iraq and I love learning new skills. Have a look at my background below!
+My name is Zainab Al Yasiri, I am from Iraq and I love learning new skills. Have a look at my background below!
 
 ### Education
 
@@ -12,5 +12,5 @@ My name is Ferran Aran, I am from Iraq and I love learning new skills. Have a lo
 - Master Health Data Science (2024 - 2026)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Research intern at Centro de Química Estrutural, University of LisbonResearch (02/2023 - 05/2023)
+- Research intern at CAI UC3M Clean Rooms of Bioengineering, Universidad Carlos III de Madrid (02/2022 - 08/2022)
